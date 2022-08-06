@@ -9,5 +9,5 @@ Having a deeper understanding of what problem we are trying to solve, what the u
 
 Improve rating system: Use the star rating rather than a thumbs up and thumbs down rating system to help guide in decision making when selecting a film. Separate recently watched: Hide the movies and TV-Shows on a separate page so users don’t have to scroll through those already seen. — users have to do more searching Randomize a Movie: When users are unsure of what to choose, Netflix will randomly select something to watch based on their viewing history. Show popular/trending films: Create a category which showcases only trending content. Connect with Friends: It was proven that users watch shows and movies based on friend recommendations so this may be useful for keeping users locked into Netflix for longer. Organizing films by the mood: Alongside the genres filter, it may be possible to organize content based on the mood that is experienced after watching the film.
 
-Conclusion
+# Conclusion
 it will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
